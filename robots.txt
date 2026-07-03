@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://commanderstraps.com/sitemap.xml
